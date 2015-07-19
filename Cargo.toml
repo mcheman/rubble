@@ -1,0 +1,4 @@
+[package]
+name = "Rubble"
+version = "0.1.0"
+authors = ["mcheman <mattcheman@gmail.com>"]
